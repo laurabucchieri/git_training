@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 I am adding to the Alice file
 rebase adding to alice
